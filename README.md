@@ -1,4 +1,4 @@
-# Bharat_Intern_Task1
+# Linear Regression
 House Price Prediction using Linear Regression
 
 Machine Learning model to predict house price using linear regression only.
